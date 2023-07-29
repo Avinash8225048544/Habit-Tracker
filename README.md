@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/Avinash8225048544/habit-tracker).
 
+# Hosted Link: https://habit-tracker-avinash.onrender.com/
+
 ## Available Scripts
 
 In the project directory, you can run:
